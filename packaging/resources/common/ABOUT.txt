@@ -1,0 +1,12 @@
+Aeras
+Video and audio downloader for Windows, built on yt-dlp.
+https://github.com/Pratyuttar/Aeras
+
+Aeras is a modified version of Seal by JunkFood02 (https://github.com/JunkFood02/Seal) and is
+distributed under the same licence, the GNU General Public License v3.0 (see LICENSE.txt).
+It is an independent project, not affiliated with or endorsed by the Seal author.
+
+If yt-dlp or FFmpeg programs are present in this folder, they are separate programs shipped
+alongside the app:
+  yt-dlp   https://github.com/yt-dlp/yt-dlp   (The Unlicense)
+  FFmpeg   https://ffmpeg.org/                (LGPL/GPL, depending on the build)

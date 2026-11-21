@@ -1,0 +1,15 @@
+# build output and local tooling
+.gradle/
+.kotlin/
+build/
+.dev/
+.jdk/
+.idea/
+*.iml
+local.properties
+
+# programs that may be bundled into a local build; never committed
+packaging/resources/windows/
+
+# installers
+*.msi
